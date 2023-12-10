@@ -1,0 +1,12 @@
+name: trialapp
+title: trialapp
+username: maubu05
+account: maubu05
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 10765963
+bundleId: 8031530
+url: https://maubu05.shinyapps.io/trialapp/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
